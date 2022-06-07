@@ -4,4 +4,3 @@
 - Taiwanese living in Finland.
 - I’m currently learning web3 :dizzy:.
 - Fun fact: I was a digital artist, [portfolio](https://chenhunghan.github.io/).
-- [CV](https://chenhunghan.github.io/online-cv/) (with an outdated profile that doesn't look like **current** me at all).
