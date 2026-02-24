@@ -2,7 +2,7 @@
 
 - [Blog](https://dev.to/chenhunghan).
 - Spare time projects
-  - [0ma](https://github.com/chenhunghan/0ma) Desktop app managing VMs + K8s for local dev.
+  - [0ma](https://github.com/chenhunghan/0ma) Desktop app managing [lima](https://lima-vm.io/) VMs + K8s for local dev.
   - [ialacol](https://github.com/chenhunghan/ialacol) archived, but still pround of, developed in 2023, local first, OpenAI-compatible api services, months before Ollama.
   - MCPs
     - [Garmin](https://github.com/chenhunghan/garmin-mcp-app) (actually a MCP Apps not server)
