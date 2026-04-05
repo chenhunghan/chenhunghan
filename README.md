@@ -4,6 +4,9 @@
 - Spare time projects
   - [0ma](https://github.com/chenhunghan/0ma) desktop app managing [lima](https://lima-vm.io/) VMs + K8s for local dev.
   - [ialacol](https://github.com/chenhunghan/ialacol) archived, but still pround of, developed in 2023, local first, OpenAI-compatible api services, months before Ollama.
+  - Skills
+    - [jira-skill](https://github.com/chenhunghan/jira-skill) there are many Jira Skills, but only this one is CLI-first.
+    - [thinking-in-systems-skill](https://github.com/chenhunghan/thinking-in-systems-skill) for system analysis.
   - MCPs
     - [Garmin](https://github.com/chenhunghan/garmin-mcp-app) (actually a MCP Apps not server)
     - [SCIM](https://github.com/chenhunghan/scim-mcp)
